@@ -1,4 +1,4 @@
-package Assignment4.Q2.macronutrient;
+package macronutrient;
 
 public class Carbs implements Macronutrient {
     private String Name;
