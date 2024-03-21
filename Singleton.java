@@ -1,4 +1,4 @@
-package Assignment4.Q2.factory;
+package factory;
 
 public class Singleton {
     private static Singleton instance;
