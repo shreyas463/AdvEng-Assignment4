@@ -1,6 +1,6 @@
-package Assignment4.Q2.meal;
+package meal;
 
-import Assignment4.Q2.macronutrient.*;
+import macronutrient.*;
 
 public class MacronutrientMeal {
     private Carbs carbs;
