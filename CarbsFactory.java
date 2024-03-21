@@ -1,4 +1,4 @@
-package Assignment4.Q2.factory;
+package factory;
 
 import Assignment4.Q2.macronutrient.Carbs;
 import Assignment4.Q2.macronutrient.Macronutrient;
