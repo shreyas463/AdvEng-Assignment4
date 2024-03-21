@@ -1,8 +1,8 @@
-package Assignment4.Q2;
+package Q2;
 
-import Assignment4.Q2.factory.*;
-import Assignment4.Q2.meal.*;
-import Assignment4.Q2.model.Customer;
+import factory.*;
+import meal.*;
+import Customer;
 
 public class Driver {
     public static void main(String[] args) {
